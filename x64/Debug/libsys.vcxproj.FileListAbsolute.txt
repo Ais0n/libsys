@@ -1,0 +1,2 @@
+D:\ZJU\大二春夏\数据库\Exp05\libsys\x64\Debug\libsys.exe
+D:\ZJU\大二春夏\数据库\Exp05\libsys\x64\Debug\libsys.pdb
